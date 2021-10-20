@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://gitlab.pixelexperience.org" name="gitlab-pe" />
+  <project name="android/vendor-blobs/vendor_nubia_TP1803" path="vendor/nubia/TP1803" remote="gitlab-pe" revision="eleven" />
+</manifest>
